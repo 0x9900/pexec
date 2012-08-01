@@ -1,0 +1,4 @@
+#!/usr/bin/python
+
+import pexec.pexec
+pexec.pexec.main()
